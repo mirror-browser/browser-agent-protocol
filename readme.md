@@ -1,10 +1,14 @@
 # 🍚 BAP — Browser Agent Protocol
 
 **BAP** is an open protocol for building a reliable, fast, and transparent communication interface between browser-based AI agents and real websites.
-
 With BAP, you can simple "ask" your browser to do repetitive task reliablly, fastly, transparently.
 
-#### Demo Video
+⚠️ **Warning: This project is still under active development.**
+The BAP spec is not finalized, and components may be unstable or non-functional.
+We plan to release BAP Spec 1.0 along with a working Agent demo in **Q3 of 2025**.
+
+## Demo
+Working on it...
 
 
 ## 📚 Terminology
